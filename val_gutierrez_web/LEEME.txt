@@ -1,0 +1,21 @@
+VAL GUTIERREZ — SITIO WEB (VERSIÓN INTERACTIVA)
+
+Se conservó la selección de fotografías original extraída del PDF. No se editaron las imágenes.
+
+CONTACTO CONFIGURADO
+- WhatsApp: +57 311 744 1182
+- Instagram: @val_gutierrez276
+- Correo: rocco272006@gmail.com
+
+ARCHIVOS
+- index.html: estructura de la página.
+- styles.css: diseño adaptable, texturas sutiles, detalles de color y botones más visibles.
+- script.js: menú móvil y ampliación de fotografías.
+- assets/: imágenes originales exportadas del PDF.
+
+CÓMO ABRIR
+1. Descomprime el ZIP.
+2. Abre index.html en tu navegador.
+
+NOTA
+La página es estática y los botones de contacto abren WhatsApp, Instagram y el correo. Para publicarla, sube la carpeta completa manteniendo la carpeta assets.
